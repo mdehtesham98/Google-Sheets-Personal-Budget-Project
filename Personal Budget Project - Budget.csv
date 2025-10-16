@@ -1,0 +1,101 @@
+Date,Transation,Amount,Category,Pmt Method,Type,Balance,Big Spender,"$20,000.00"
+01/01/2024,Paycheck,"$2,000.00",Paycheck,Apple,Income,"$18,000.00",Big Spender,78
+01/01/2024,Movies,$894.16,Auto,Amazon,Expense,"$17,105.84",Not Much,77
+01/02/2024,Music,$330.56,Eating Out,Capital One,Expense,"$16,775.28",Not Much,76
+01/03/2024,Tools,"$1,840.39",Kids,Check,Expense,"$14,934.89",Big Spender,76
+01/04/2024,Music,$586.23,Entertainment,Round Up,Expense,"$14,348.66",Not Much,75
+01/05/2024,Shoes,"$1,583.07",Other Income,Another Card,Expense,"$12,765.59",Big Spender,74
+01/06/2024,Other Income,"$4,500.00",Auto,Capital One,Expense,"$8,265.59",Big Spender,73
+01/06/2024,Books,$784.44,Grocery,Apple,Expense,"$7,481.15",Not Much,72
+01/07/2024,Industrial,"$1,524.79",Donation,Amazon,Expense,"$5,956.36",Big Spender,71
+01/10/2024,Industrial,$169.57,Medical,Capital One,Expense,"$5,786.79",Not Much,70
+01/10/2024,Health,"$1,623.67",Paycheck,Check,Income,"$4,163.12",Big Spender,70
+01/11/2024,Jewelry,$295.07,Medical,Round Up,Expense,"$3,868.05",Not Much,69
+01/14/2024,Movies,"$1,896.78",Business ,Another Card,Expense,"$1,971.27",Big Spender,69
+01/16/2024,Paycheck,"$2,000.00",Business ,Capital One,Expense,-$28.73,Big Spender,68
+01/17/2024,Electronics,"$1,196.65",Clothing ,Apple,Expense,"-$1,225.38",Big Spender,67
+01/18/2024,Jewelry,"$1,098.23",Medical,Amazon,Expense,"-$2,323.61",Big Spender,66
+01/18/2024,Computers,$935.66,Investment,Capital One,Expense,"-$3,259.27",Not Much,65
+01/21/2024,Outdoors,$884.78,Grocery,Check,Expense,"-$4,144.05",Not Much,64
+01/22/2024,Shoes,"$1,358.23",Grocery,Round Up,Expense,"-$5,502.28",Big Spender,63
+01/23/2024,Jewelry,$650.82,Clothing ,Another Card,Expense,"-$6,153.10",Not Much,62
+01/23/2024,Garden,$397.66,Clothing ,Capital One,Expense,"-$6,550.76",Not Much,61
+01/24/2024,Kids,"$1,893.78",Auto,Apple,Expense,"-$8,444.54",Big Spender,61
+01/24/2024,Electronics,$608.67,Other Income,Amazon,Expense,"-$9,053.21",Not Much,60
+01/27/2024,Health,$409.05,Entertainment,Capital One,Expense,"-$9,462.26",Not Much,59
+01/28/2024,Beauty,$943.46,Business ,Check,Expense,"-$10,405.72",Not Much,59
+01/30/2024,Movies,"$1,527.78",Donation,Round Up,Expense,"-$11,933.50",Big Spender,58
+01/31/2024,Music,$631.79,Grocery,Another Card,Expense,"-$12,565.29",Not Much,57
+02/02/2024,Paycheck,"$2,000.00",Eating Out,Capital One,Expense,"-$14,565.29",Big Spender,56
+02/03/2024,Food,$75.22,Grocery,Apple,Expense,"-$14,640.51",Not Much,55
+02/04/2024,Grocery,$355.22,Grocery,Amazon,Expense,"-$14,995.73",Not Much,55
+02/04/2024,Movies,"$1,713.16",Eating Out,Capital One,Expense,"-$16,708.89",Big Spender,55
+02/06/2024,Music,$91.40,Grocery,Check,Expense,"-$16,800.29",Not Much,54
+02/06/2024,Electronics,"$1,030.19",Running,Round Up,Expense,"-$17,830.48",Big Spender,54
+02/07/2024,Computers,$197.00,Running,Another Card,Expense,"-$18,027.48",Not Much,53
+02/07/2024,Sports,"$1,297.15",Home,Capital One,Expense,"-$19,324.63",Big Spender,53
+02/08/2024,Grocery,"$1,743.58",Clothing ,Apple,Expense,"-$21,068.21",Big Spender,52
+02/08/2024,Music,"$1,818.44",Clothing ,Amazon,Expense,"-$22,886.65",Big Spender,51
+02/09/2024,Garden,$539.27,Medical,Capital One,Expense,"-$23,425.92",Not Much,50
+02/10/2024,Sports,$969.43,Donation,Check,Expense,"-$24,395.35",Not Much,49
+02/12/2024,Outdoors,$290.39,Grocery,Round Up,Expense,"-$24,685.74",Not Much,48
+02/12/2024,Computers,"$1,144.11",Eating Out,Another Card,Expense,"-$25,829.85",Big Spender,48
+02/12/2024,Tools,"$1,005.29",Grocery,Capital One,Expense,"-$26,835.14",Big Spender,47
+02/13/2024,Toys,$438.40,Grocery,Apple,Expense,"-$27,273.54",Not Much,46
+02/14/2024,Sports,"$1,816.46",Eating Out,Amazon,Expense,"-$29,090.00",Big Spender,46
+02/15/2024,Paycheck,"$2,000.00",Grocery,Capital One,Expense,"-$31,090.00",Big Spender,45
+02/16/2024,Health,$242.38,Running,Check,Expense,"-$31,332.38",Not Much,44
+02/17/2024,Jewelry,$752.98,Running,Round Up,Expense,"-$32,085.36",Not Much,44
+02/18/2024,Outdoors,$743.75,Home,Another Card,Expense,"-$32,829.11",Not Much,43
+02/18/2024,Music,$613.78,Clothing ,Capital One,Expense,"-$33,442.89",Not Much,42
+02/19/2024,Industrial,$236.92,Clothing ,Apple,Expense,"-$33,679.81",Not Much,41
+02/19/2024,Jewelry,"$1,452.74",Medical,Amazon,Expense,"-$35,132.55",Big Spender,41
+02/19/2024,Health,"$1,226.55",Donation,Capital One,Expense,"-$36,359.10",Big Spender,40
+02/21/2024,Computers,"$1,139.86",Grocery,Check,Expense,"-$37,498.96",Big Spender,39
+02/21/2024,Industrial,"$1,202.61",Eating Out,Round Up,Expense,"-$38,701.57",Big Spender,38
+02/22/2024,Sports,$883.76,Grocery,Another Card,Expense,"-$39,585.33",Not Much,37
+02/23/2024,Jewelry,"$1,148.86",Grocery,Capital One,Expense,"-$40,734.19",Big Spender,36
+02/24/2024,Outdoors,$606.89,Eating Out,Apple,Expense,"-$41,341.08",Not Much,35
+02/24/2024,Grocery,"$1,369.59",Grocery,Amazon,Expense,"-$42,710.67",Big Spender,34
+02/24/2024,Jewelry,"$1,355.20",Running,Capital One,Expense,"-$44,065.87",Big Spender,33
+02/25/2024,Baby,$397.88,Running,Check,Expense,"-$44,463.75",Not Much,32
+02/26/2024,Music,"$1,404.34",Home,Round Up,Expense,"-$45,868.09",Big Spender,32
+02/27/2024,Games,"$1,245.19",Clothing ,Another Card,Expense,"-$47,113.28",Big Spender,31
+02/27/2024,Books,$97.41,Clothing ,Capital One,Expense,"-$47,210.69",Not Much,30
+02/27/2024,Health,$688.57,Medical,Apple,Expense,"-$47,899.26",Not Much,30
+02/29/2024,Electronics,$902.42,Donation,Amazon,Expense,"-$48,801.68",Not Much,29
+03/01/2024,Paycheck,"$2,000.00",Grocery,Capital One,Expense,"-$50,801.68",Big Spender,28
+03/01/2024,Movies,"$1,150.56",Eating Out,Check,Expense,"-$51,952.24",Big Spender,27
+03/04/2024,Computers,"$1,726.09",Grocery,Round Up,Expense,"-$53,678.33",Big Spender,26
+03/05/2024,Health,"$1,078.28",Grocery,Another Card,Expense,"-$54,756.61",Big Spender,25
+03/07/2024,Clothing,"$1,809.49",Eating Out,Capital One,Expense,"-$56,566.10",Big Spender,24
+03/07/2024,Grocery,$835.07,Grocery,Apple,Expense,"-$57,401.17",Not Much,23
+03/07/2024,Industrial,$519.21,Running,Amazon,Expense,"-$57,920.38",Not Much,22
+03/08/2024,Kids,"$1,804.14",Running,Capital One,Expense,"-$59,724.52",Big Spender,21
+03/09/2024,Toys,$736.08,Home,Check,Expense,"-$60,460.60",Not Much,20
+03/09/2024,Grocery,"$1,982.56",Clothing ,Round Up,Expense,"-$62,443.16",Big Spender,19
+03/10/2024,Kids,$164.21,Clothing ,Another Card,Expense,"-$62,607.37",Not Much,18
+03/10/2024,Games,$402.56,Medical,Capital One,Expense,"-$63,009.93",Not Much,18
+03/11/2024,Computers,$206.25,Donation,Apple,Expense,"-$63,216.18",Not Much,18
+03/12/2024,Computers,"$1,274.74",Grocery,Amazon,Expense,"-$64,490.92",Big Spender,18
+03/12/2024,Grocery,$918.53,Eating Out,Capital One,Expense,"-$65,409.45",Not Much,17
+03/12/2024,Games,$689.00,Grocery,Check,Expense,"-$66,098.45",Not Much,16
+03/14/2024,Computers,$229.30,Grocery,Round Up,Expense,"-$66,327.75",Not Much,15
+03/14/2024,Computers,"$1,241.46",Eating Out,Another Card,Expense,"-$67,569.21",Big Spender,15
+03/14/2024,Toys,"$1,303.49",Grocery,Capital One,Expense,"-$68,872.70",Big Spender,14
+03/15/2024,Paycheck,"$2,000.00",Running,Apple,Expense,"-$70,872.70",Big Spender,13
+03/15/2024,Health,"$1,707.22",Running,Amazon,Expense,"-$72,579.92",Big Spender,12
+03/17/2024,Home,"$1,341.00",Home,Capital One,Expense,"-$73,920.92",Big Spender,11
+03/22/2024,Toys,"$1,023.46",Clothing ,Check,Expense,"-$74,944.38",Big Spender,10
+03/22/2024,Home,$605.85,Clothing ,Round Up,Expense,"-$75,550.23",Not Much,9
+03/22/2024,Computers,"$1,996.48",Medical,Another Card,Expense,"-$77,546.71",Big Spender,8
+03/22/2024,Games,"$1,259.71",Donation,Capital One,Expense,"-$78,806.42",Big Spender,7
+03/23/2024,Grocery,$373.75,Grocery,Apple,Expense,"-$79,180.17",Not Much,6
+03/23/2024,Bonus,"$9,800.00",Eating Out,Amazon,Expense,"-$88,980.17",Big Spender,6
+03/23/2024,Kids,"$1,264.74",Grocery,Capital One,Expense,"-$90,244.91",Big Spender,5
+03/27/2024,Home,$75.79,Grocery,Check,Expense,"-$90,320.70",Not Much,4
+03/28/2024,Health,"$1,688.95",Eating Out,Round Up,Expense,"-$92,009.65",Big Spender,4
+03/28/2024,Movies,"$1,001.43",Grocery,Another Card,Expense,"-$93,011.08",Big Spender,3
+03/29/2024,Electronics,$278.11,Running,Capital One,Expense,"-$93,289.19",Not Much,2
+03/30/2024,Jewelry,"$1,377.46",Running,Apple,Expense,"-$94,666.65",Big Spender,2
+03/30/2024,Electronics,"$1,558.30",Home,Amazon,Expense,"-$96,224.95",Big Spender,1
